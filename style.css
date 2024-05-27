@@ -17,16 +17,17 @@ html, body {
         align-items: center;
         justify-content: center;
         max-width: 20em;
-        max-height: 30em;
+        height: 30em;
         background-color: white;
-        border: 1px solid black;
+        border: 1px solid hsl(212, 45%, 89%);
         border-radius: 20px;
         margin: 10em auto 10em;
-        padding: 8px;
+        padding: 1em;
+        box-shadow: hsl(0, 0%, 100%);
     }
 
     .qr_img {
-        margin-top: 1em;
+        margin-top: 2em;
         padding: 12px;
     }
     
@@ -48,6 +49,7 @@ html, body {
     .qr_content p {
         margin-left: 1em;
         margin-right: 1em;
+        padding-bottom: 2em;
         letter-spacing: 0.19px;
         color: #7D889E;
     }
@@ -64,7 +66,7 @@ html, body {
         max-width: 20em;
         max-height: 30em;
         background-color: white;
-        border: 1px solid black;
+        border: 1px solid hsl(212, 45%, 89%);
         border-radius: 20px;
         margin: 3em auto 3em;
         padding: 8px;

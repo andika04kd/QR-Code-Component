@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+LIVE DEMO (https://qr-code-component-mu-gray.vercel.app/)
 
 ## Welcome! 👋
 
